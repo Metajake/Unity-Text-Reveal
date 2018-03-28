@@ -1,6 +1,11 @@
 ﻿<Properties StartupConfiguration="{B079BF1D-0175-CD77-9690-7889CF9D5C1F}|">
   <MonoDevelop.Ide.ItemProperties.Text_220Reveal PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIGradient.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UIGradient.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/UIGradientUtils.cs" Line="89" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
